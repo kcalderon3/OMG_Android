@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OMG Android</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_world">Hi Kharisma</string>
+</resources>
